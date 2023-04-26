@@ -1,0 +1,141 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-card{
+    background-color: #f4f4f4;
+    max-width: 40%;
+    height: auto;
+    padding-left: 24px;
+
+}
+
+.logo{
+    margin-left: 200px;
+    padding-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 8px;
+}
+
+.google-signin{
+    display: flex;
+    flex-direction: row;
+    border: 1px black solid;
+    width: 320px;
+    padding-right: 2px;
+    padding-left: 8px;
+    align-items: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 24px;
+
+}
+
+.textsignin{
+    font-size: 32px;
+    font-weight: bolder;
+    color: black;
+}
+
+.profile{
+    margin-right: 6px;
+    margin-left: 0px;
+}
+
+.sign-in{
+    font-size: small;
+    color: #606060;
+}
+
+.mary{
+    font-weight: bold;
+    font-size: small;
+    color: #0f1419;
+}
+
+.signin-mary{
+    margin-right: 100px;
+}
+
+.google-logo{
+    margin-right: 4px;
+}
+
+.apple-signin{
+    display: flex;
+    flex-direction: row;
+    border: 1px black solid;
+    width: 320px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    align-items: center;
+    border-radius: 32px;
+    margin-top: 24px;
+
+}
+
+.apple-logo{
+    margin-left: 64px;
+    margin-right: 0;
+}
+
+.apple-text{
+    margin-right: 50px;
+    margin-left: 0;
+}
+
+.or{
+    margin-top: 12px;
+    margin-bottom: 16px;
+    margin-left: 5px;
+}
+
+.username{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 200p;
+}
+
+.user{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 56px;
+    font-size: 20px;
+    width: 320px;
+}
+
+.next{
+    width: 320px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    padding-left: 132px;
+    padding-right: 132px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 32px;
+}
+
+.forgot-password{
+        width: 320px;
+        background-color: white;
+        color: black;
+        font-size: large;
+        font-weight: bold;
+        padding-left: 88px;
+        padding-right: 88px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        border-radius: 32px;
+        margin-top: 24px;
+        border: 4px #0f1419;
+
+}
+
